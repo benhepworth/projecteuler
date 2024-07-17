@@ -15,4 +15,4 @@ while (latestNum < 4000000) {
   num2 = latestNum;
   latestNum = num1 + num2;
 }
-console.log("Fibonacci sequence even sum - " + sumEvens);
+console.log("Problem 2 answer is " + sumEvens);
